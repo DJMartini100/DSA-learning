@@ -1,0 +1,15 @@
+in free time that i got while at work
+checked that
+big:
+O(1) = top card
+O(log n) = presorted cards devide in half and half until get desired card
+O(n)=find your card 1by1 worse case scenario 52
+O(n^2) = pick top card and compare to all other cards 52x52
+O(2^n) = i m looking for every combo the more cards the higher combo list. 
+1 card 2 combos, 2 cards 4 combos, 3 cards 8 combos, 10 is 1024 combos
+
+O(n!) = all possible orders
+3 cards 6 possible orders
+4 cards 24 possible orders
+5 cards 120 possible orders
+10 cards 36288000 orders
