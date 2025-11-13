@@ -13,3 +13,4 @@ O(n!) = all possible orders
 4 cards 24 possible orders
 5 cards 120 possible orders
 10 cards 36288000 orders
+/
