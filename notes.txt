@@ -13,4 +13,8 @@ O(n!) = all possible orders
 4 cards 24 possible orders
 5 cards 120 possible orders
 10 cards 36288000 orders
-/
+
+
+note: have to push it to main to see the changes later on.
+
+14.11 edit, on first day off out of 3 pulled out 2 wisdom tooth. no updates, just watching dsa 
